@@ -2,6 +2,7 @@
 Basic Python GUI Tic Tac Toe
 
 Tic tac toe program using Tkinter.  Currently a basic 2 player game implementation.
+Adapted from: https://www.codespeedy.com/tic-tac-toe-gui-in-python-using-tkinter/
 
 To do:
 -Add 1 player (against computer) option
