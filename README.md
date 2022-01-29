@@ -5,6 +5,9 @@ Tic tac toe program using Tkinter.  Currently a basic 2 player game implementati
 Adapted from: https://www.codespeedy.com/tic-tac-toe-gui-in-python-using-tkinter/
 
 To do:
--Add 1 player (against computer) option
-  --Add option for computer to go first or second.  Maybe add difficulty
--Add score for multiple games
+-Add option to choose 1 or 2 player
+-Add option for computer to go first or second.
+-Add check condition for diagonal win for computer
+-Add check for opponent win for computer
+  
+
